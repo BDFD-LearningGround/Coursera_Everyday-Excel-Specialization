@@ -18,9 +18,9 @@ The courses enlisted as follows:
 
 - [x] **C1-Everyday Excel, Part 1**
 - [x] **C2-Everyday Excel, Part 2**
-- [ ] **C3-Everyday Excel, Part 3(Project)**
+- [x] **C3-Everyday Excel, Part 3(Project)**
 
-## Course Description: 1 Course
+## Course Description: 3 Course
 
 This Specialization is for learners wishing to learn Microsoft Excel from beginner level to expert level.  The first two courses will teach learners the basics of Excel through the use of dozens of educational screencasts and a series of quizzes and in-application assignments.  Finally, in Part 3 (Projects), learners will complete several "real world", somewhat open ended yet guided projects.  In the Projects course, special emphasis is placed on dynamic array functions, which are new in Office 365 and have revolutionized the way that worksheet calculations are performed.
 
